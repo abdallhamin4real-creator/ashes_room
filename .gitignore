@@ -1,0 +1,10 @@
+node_modules/
+dist/
+shots/
+/.manus-webdev/preview-identity.json
+# Assets restored from assets.lock.json
+/assets/models/survivor-animated.glb
+/assets/models/survivor-rigged.glb
+/assets/models/survivor.glb
+# Assets restored from assets.lock.json
+/assets/share/favicon.png

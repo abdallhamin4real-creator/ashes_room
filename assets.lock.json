@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "groups": {
+    "models": {
+      "name": "Models",
+      "order": 10
+    },
+    "share": {
+      "name": "Share",
+      "order": 20
+    }
+  },
+  "bundles": {},
+  "assets": {
+    "assets/models/survivor-animated.glb": {
+      "path": "/manus-storage/game/sha256/92c1afbe4146a7f628f2ec32f012e9cce5405d0d73cf6bc201e0ee0e6fa292a7.glb",
+      "sha256": "sha256:92c1afbe4146a7f628f2ec32f012e9cce5405d0d73cf6bc201e0ee0e6fa292a7",
+      "size": 1296112,
+      "assetType": "model",
+      "groupId": "models"
+    },
+    "assets/models/survivor-rigged.glb": {
+      "path": "/manus-storage/game/sha256/3438c1e00fd8eb6428a2fea83c854c1fbf098cbeab5f8507d148a432c5a444c8.glb",
+      "sha256": "sha256:3438c1e00fd8eb6428a2fea83c854c1fbf098cbeab5f8507d148a432c5a444c8",
+      "size": 1016848,
+      "assetType": "model",
+      "groupId": "models"
+    },
+    "assets/models/survivor.glb": {
+      "path": "/manus-storage/game/sha256/9d0d91c3884c6a3466cd07f8bbad8c46029a3b418d4d04fd84c5b147bf758675.glb",
+      "sha256": "sha256:9d0d91c3884c6a3466cd07f8bbad8c46029a3b418d4d04fd84c5b147bf758675",
+      "size": 966664,
+      "assetType": "model",
+      "groupId": "models"
+    },
+    "assets/share/favicon.png": {
+      "path": "/manus-storage/game/sha256/5bbd08dfd64b7cbc87783db36fa1789a649235cbfb2c48dcbf43fbf0815425d3.png",
+      "sha256": "sha256:5bbd08dfd64b7cbc87783db36fa1789a649235cbfb2c48dcbf43fbf0815425d3",
+      "size": 5436,
+      "assetType": "image",
+      "groupId": "share"
+    }
+  }
+}
